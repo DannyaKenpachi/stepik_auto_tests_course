@@ -1,2 +1,4 @@
-# stepik_auto_tests_course
-learning using git for aqa
+# stepik\_auto\_tests\_course
+
+learning using git for aqa - Python/Selenuim
+
